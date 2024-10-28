@@ -19,5 +19,6 @@ This is a Python-based Download Manager that supports:
    git clone https://github.com/ilazuardi/simple-download-manager.git
    cd python-download-manager
 2. Running in your terminal
+    ```bash
     python main.py
  
