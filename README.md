@@ -1,4 +1,4 @@
-# Python Download Manager
+# Simple Download Manager
 
 This is a Python-based Download Manager that supports:
 - **Regular file downloads**
