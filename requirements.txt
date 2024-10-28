@@ -1,0 +1,5 @@
+yt-dlp>=2023.01.06   # For downloading videos, including embedded videos
+requests>=2.25.1      # For making HTTP requests in download manager core
+PyQt5>=5.15.7         # For building the graphical user interface (GUI)
+sqlite3               # Built-in with Python, listed for clarity
+aiohttp>=3.8.1        # Optional, useful for async operations (if needed in future)
