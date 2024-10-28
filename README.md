@@ -1,4 +1,4 @@
-# Python Download Manager
+# Simple Download Manager
 
 This is a Python-based Download Manager that supports:
 - **Regular file downloads**
@@ -16,6 +16,9 @@ This is a Python-based Download Manager that supports:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ilazuardi/simple-download-manager.git
    cd python-download-manager
+2. Running in your terminal
+    ```bash
+    python main.py
  
